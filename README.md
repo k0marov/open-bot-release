@@ -11,3 +11,12 @@ https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip \
 и распаковать в корневой папке, переименовав в model
 5. Положить токен бота в token.txt в корневой папке 
 6. python main.py 
+
+
+# Описание файлов 
+
+backend - модули реализующие бизнес-логику и обращение к базе данных
+frontend - работа с библиотекой python-telegram-bot 
+faq.json - база данных 
+requirements.json - файл с зависимостями python 
+main.py - файл, который нужно запускать для старта бота
