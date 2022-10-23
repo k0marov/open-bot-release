@@ -15,8 +15,8 @@ https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip \
 
 # Описание файлов 
 
-backend - модули реализующие бизнес-логику и обращение к базе данных
-frontend - работа с библиотекой python-telegram-bot 
-faq.json - база данных 
-requirements.json - файл с зависимостями python 
-main.py - файл, который нужно запускать для старта бота
+backend - модули реализующие бизнес-логику и обращение к базе данных\
+frontend - работа с библиотекой python-telegram-bot\
+faq.json - база данных\
+requirements.json - файл с зависимостями python\
+main.py - файл, который нужно запускать для старта бота\
